@@ -1,0 +1,81 @@
+[
+  {
+    "id": "shekla-tibs",
+    "name": "Special Shekla Tibs",
+    "amharicName": "የሸክላ ጥብስ",
+    "category": "Ethiopian",
+    "price": 480,
+    "rating": 4.9,
+    "prepTime": "25-30 min",
+    "image": "/images/shekla-tibs.jpg",
+    "isChefSignature": true,
+    "isPopular": true,
+    "description": "Tender prime beef cubes expertly sautéed to sizzling perfection in clarified niter kibbeh (spiced butter) with sweet red onions, garlic, fresh rosemary sprigs, and jalapeno peppers. Served sizzling hot on a traditional Ethiopian charcoal clay pot accompanied by three rolls of 100% pure teff injera, hot awaze dipping sauce, and fresh seneg karia.",
+    "aromaticIngredients": ["Prime Grass-Fed Beef", "Niter Kibbeh Spiced Butter", "Fresh Rosemary", "Red Shallots & Garlic", "Awaze Chili Paste", "100% Brown Teff Injera", "Mitmita Seasoning"],
+    "spiceProfile": "Medium Awaze"
+  },
+  {
+    "id": "doro-wat",
+    "name": "Traditional Doro Wat Feast",
+    "amharicName": "የዶሮ ወጥ",
+    "category": "Ethiopian",
+    "price": 650,
+    "rating": 4.9,
+    "prepTime": "30-40 min",
+    "image": "/images/doro-wat.jpg",
+    "isPopular": true,
+    "description": "Slow-cooked chicken leg marinated in fresh lemon juice and berbere, simmered for hours in a rich onion and spiced kibbeh sauce. Served with hard-boiled eggs and fresh teff injera.",
+    "aromaticIngredients": ["Slow-cooked Chicken", "Authentic Berbere", "Hard-boiled Eggs", "Niter Kibbeh"],
+    "spiceProfile": "Mitmita Hot"
+  },
+  {
+    "id": "special-kitfo",
+    "name": "Special Kitfo (Lebleb)",
+    "amharicName": "ክትፎ",
+    "category": "Ethiopian",
+    "price": 520,
+    "rating": 4.8,
+    "prepTime": "15-20 min",
+    "image": "/images/special-kitfo.jpg",
+    "isChefSignature": true,
+    "description": "Finely minced lean beef warmed with spiced butter (niter kibbeh) and mitmita. Served with ayib (cottage cheese) and gomen (collard greens).",
+    "aromaticIngredients": ["Minced Lean Beef", "Mitmita", "Niter Kibbeh", "Fresh Ayib"],
+    "spiceProfile": "Medium Awaze"
+  },
+  {
+    "id": "margherita-pizza",
+    "name": "Wood-Fired Margherita",
+    "category": "Pizza",
+    "price": 420,
+    "rating": 4.7,
+    "prepTime": "15-20 min",
+    "image": "/images/margherita.jpg",
+    "description": "12-inch crispy thin crust topped with fresh mozzarella, artisan basil leaves, and slow-roasted San Marzano tomato sauce.",
+    "aromaticIngredients": ["San Marzano Tomatoes", "Fresh Mozzarella", "Basil", "Extra Virgin Olive Oil"],
+    "spiceProfile": "Alicha Mild"
+  },
+  {
+    "id": "smashed-wagyu",
+    "name": "Addis Smashed Gourmet Burger",
+    "category": "Burgers",
+    "price": 420,
+    "rating": 4.8,
+    "prepTime": "15-20 min",
+    "image": "/images/smashed-burger.jpg",
+    "description": "Double smashed beef patty with melted cheddar, caramelized onions, house pickles, and signature Addis sauce on a toasted brioche bun.",
+    "aromaticIngredients": ["Double Beef Patty", "Aged Cheddar", "Caramelized Onions", "House Sauce"],
+    "spiceProfile": "Alicha Mild"
+  },
+  {
+    "id": "spris-juice",
+    "name": "Fresh Layered Spris Juice",
+    "category": "Drinks",
+    "price": 180,
+    "rating": 4.9,
+    "prepTime": "5-10 min",
+    "image": "/images/spris-juice.jpg",
+    "description": "Traditional Ethiopian 500ml fresh fruit smoothie layered with pure avocado, mango, and papaya, served with a lime wedge.",
+    "aromaticIngredients": ["Fresh Avocado", "Ripe Mango", "Papaya", "Fresh Lime"],
+    "spiceProfile": "Alicha Mild"
+  }
+]
